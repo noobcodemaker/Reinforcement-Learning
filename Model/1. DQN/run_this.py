@@ -1,5 +1,5 @@
 import gym
-from RL_DQN import DQN, ReplayBuffer
+from RL_brain import DQN, ReplayBuffer
 import torch
 from tqdm import tqdm
 import matplotlib.pyplot as plt
